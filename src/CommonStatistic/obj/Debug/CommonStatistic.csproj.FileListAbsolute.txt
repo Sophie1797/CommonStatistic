@@ -1,0 +1,7 @@
+D:\MyStatistic\CommonStatistic\CommonStatistic\bin\Debug\CommonStatistic.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic\bin\Debug\CommonStatistic.pdb
+D:\MyStatistic\CommonStatistic\CommonStatistic\bin\Debug\Demo.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic\bin\Debug\Demo.pdb
+D:\MyStatistic\CommonStatistic\CommonStatistic\obj\Debug\CommonStatistic.csprojResolveAssemblyReference.cache
+D:\MyStatistic\CommonStatistic\CommonStatistic\obj\Debug\CommonStatistic.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic\obj\Debug\CommonStatistic.pdb

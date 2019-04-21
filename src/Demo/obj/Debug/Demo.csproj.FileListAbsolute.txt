@@ -1,0 +1,5 @@
+D:\MyStatistic\CommonStatistic\Demo\bin\Debug\Demo.dll
+D:\MyStatistic\CommonStatistic\Demo\bin\Debug\Demo.pdb
+D:\MyStatistic\CommonStatistic\Demo\obj\Debug\Demo.dll
+D:\MyStatistic\CommonStatistic\Demo\obj\Debug\Demo.pdb
+D:\MyStatistic\CommonStatistic\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\CommonStatistic.Test.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\CommonStatistic.Test.pdb
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\CommonStatistic.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\Demo.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\CommonStatistic.pdb
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\Demo.pdb
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\obj\Debug\CommonStatistic.Test.dll
+D:\MyStatistic\CommonStatistic\CommonStatistic.Test\obj\Debug\CommonStatistic.Test.pdb
